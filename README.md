@@ -1,7 +1,7 @@
 # BDRAR
 Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection
 
-# citation
+# Citation
 @inproceedings{zhu18b,
      author = {Zhu, Lei and Deng, Zijun and Hu, Xiaowei and Fu, Chi-Wing and Xu, Xuemiao and Qin, Jing and Heng, Pheng-Ann},
      title = {Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection},
