@@ -1,6 +1,13 @@
 # BDRAR
 Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection
 
+# citation
+@inproceedings{zhu18b,
+     author = {Zhu, Lei and Deng, Zijun and Hu, Xiaowei and Fu, Chi-Wing and Xu, Xuemiao and Qin, Jing and Heng, Pheng-Ann},
+     title = {Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection},
+     booktitle = {ECCV},
+     year = {2018}
+}
 
 # Preparation
 1. Set the path of pretrained ResNeXt model in resnext/config.py
